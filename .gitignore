@@ -1,0 +1,10 @@
+# Çalışma sırasında oluşturulan dosyalar
+*.pyc
+__pycache__/
+
+# VS Code dosyaları
+.vscode/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
